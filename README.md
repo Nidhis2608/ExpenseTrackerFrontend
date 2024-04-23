@@ -12,7 +12,7 @@ Expense Tracker is a modern web application designed to help users manage their 
 - **Transaction History:** Access a detailed history of past transactions.
 
 ### Deployed APP
- ## Frontend  https://6627bf7e2f054e05e0329845--sparkling-zuccutto-8d451f.netlify.app/
+ ## Frontend  https://6627a7ec2d569e1ae924e178--tubular-zuccutto-859e92.netlify.app/
  ## Json Server  https://expensetrackerbackend-y9nk.onrender.com/
 ## Getting Started
 
