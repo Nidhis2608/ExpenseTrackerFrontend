@@ -12,7 +12,7 @@ Expense Tracker is a modern web application designed to help users manage their 
 - **Transaction History:** Access a detailed history of past transactions.
 
 ### Deployed APP
- ## Frontend  https://6627a7ec2d569e1ae924e178--tubular-zuccutto-859e92.netlify.app/
+ ## Frontend  https://6627bf7e2f054e05e0329845--sparkling-zuccutto-8d451f.netlify.app/
  ## Json Server  https://expensetrackerbackend-y9nk.onrender.com/
 ## Getting Started
 
@@ -34,9 +34,15 @@ These instructions will get you a copy of the project up and running on your loc
 ![image](https://github.com/Nidhis2608/ExpenseTrackerFrontend/assets/147683595/5d49fcaf-f5c4-4fa0-a227-c332ce063071)
 
 -Dashboard Page
-![image](https://github.com/Nidhis2608/ExpenseTrackerFrontend/assets/147683595/660ceba3-e04b-4c9a-bace-dc0fba9837d2)
+![image](https://github.com/Nidhis2608/ExpenseTrackerFrontend/assets/147683595/67e811f9-52f1-4c65-9ee2-cc1f1b37f2cb)
+
 
 -Analytics Page
+![image](https://github.com/Nidhis2608/ExpenseTrackerFrontend/assets/147683595/464520d2-2c0d-406a-b4c3-eecbb14d50b9)
+
+-History Page
+![image](https://github.com/Nidhis2608/ExpenseTrackerFrontend/assets/147683595/7eb105a2-72c2-4563-a6e8-c41b4c225ab7)
+
 
 
 
