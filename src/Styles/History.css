@@ -1,0 +1,93 @@
+.history-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: flex;
+  flex: 0 1 calc(33.33% - 20px);
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  padding: 15px;
+  border-radius: 8px;
+
+}
+
+.card-info {
+  flex-grow: 1;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-date {
+  font-size: 14px;
+  color: #666;
+}
+
+.card-amount {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-amount.income {
+  color: green;
+}
+
+.card-amount.expense {
+  color: red;
+}
+
+.card-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.edit-btn, .delete-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.edit-btn:hover, .delete-btn:hover {
+  opacity: 0.7;
+}
+/* Assuming that the following classes are already present in your History.css */
+
+.history-container .card .card-actions {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.edit-btn, .delete-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 0.5em;
+}
+
+.delete-btn {
+  color: #f06292; /* Pink color for the delete button */
+}
+
+.edit-btn {
+  color: #ffb74d; /* Orange color for the edit button */
+}
+
+/* Add styles for the hover effect to give feedback to the user */
+.edit-btn:hover, .delete-btn:hover {
+  opacity: 0.8;
+}
